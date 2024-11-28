@@ -52,6 +52,17 @@ Make sure to update the values as per your requirements.
 
 2. The service will be available at `http://localhost:3000`.
 
+## Swagger Documentation
+
+The service uses Swagger for API documentation. Swagger provides a user-friendly interface to explore and test the API endpoints.
+
+### Accessing Swagger UI
+
+Once the service is running, you can access the Swagger UI at the following URL:
+```
+http://localhost:3000/docs
+```
+
 ### Without Docker
 
 1. Build the project:
